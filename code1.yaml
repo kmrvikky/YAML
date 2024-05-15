@@ -1,0 +1,8 @@
+player_name: My Music Player
+theme: dark
+default_volume: 50
+playlists:
+  favorites:
+    - song1.mp3
+    - song2.wav
+  recent: []  # Empty list
