@@ -1,0 +1,11 @@
+title: This Website is an awesome resource
+description: A website about yaml from intro to intermediate and advanced.
+author: cloudbees.com
+navigation:
+  - Home
+  - Intro
+  - Get started
+  - bundle.yaml
+  - items.yaml
+  - jenkins.yaml
+  - plugins.yaml
