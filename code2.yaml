@@ -1,0 +1,7 @@
+commands:
+  - name: Update packages
+    command: sudo apt update && sudo apt upgrade -y
+  - name: List files
+    command: ls -l
+  - name: Print message
+    command: echo "Hello, world!"
