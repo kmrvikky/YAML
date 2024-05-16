@@ -1,0 +1,10 @@
+Vehicles:
+      Swift: white_color
+      Honda: red_black
+      Punch: teal_color
+      
+Fuel:
+      Swift: diesel
+      Honda: petrol
+      Punch: electric
+      
