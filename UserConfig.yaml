@@ -1,0 +1,10 @@
+user:
+  name: Alice  # Username
+  email: alice@example.com  # User's email address
+  # Role assignment (comment explains its purpose)
+  role: admin  # Only for authorized users
+
+  # Nested configuration for preferences (commented)
+  preferences:
+    # Theme selection explained in the comment
+    theme: light  # Can be "dark" as well
