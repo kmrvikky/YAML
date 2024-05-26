@@ -1,0 +1,5 @@
+# Event details with date and time
+event:
+  name: Product Launch
+  date: 2024-06-15  # YYYY-MM-DD format
+  time: 10:00:00  # HH:MM:SS format
