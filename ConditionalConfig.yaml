@@ -1,0 +1,9 @@
+# This configuration applies only if the environment is "production"
+if: environment == "production"
+  server:
+    host: production-server.com
+    port: 8080
+else:
+  server:
+    host: development-server.com
+    port: 5000
