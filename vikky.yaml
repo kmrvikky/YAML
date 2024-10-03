@@ -1,0 +1,15 @@
+5G21A6P04P4124301_1690995644_1690995658.yaml:
+  metadata:
+    scenario_id: 98f4a3e7-34c1-4aa2-9910-be57face5a17
+    author: shilpashanbhag
+    stream_description: Automatically generated
+    jira_ticket: 5G21A6P04P4124301_1690995644_1690995658
+    drive_event_id: 1690995646912970425
+    tags: Planning
+  drive_segment_id: 5G21A6P04P4124301:1690995644:1690995658
+  evaluation_start_time: 1690995649
+  evaluation_end_time: 1690995657
+  run_template: planning_and_controls_w_rigel_and_ml_reactive_tracked_objects.yaml
+  analyze_template: oracle.yaml
+  launch_args:
+    enable_manual_replay: true
